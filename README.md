@@ -49,4 +49,4 @@ Em desenvolvimento.
 
 Desenvolvido por **Tallita Gabriela Gonçalves Lima**.
 
-Projeto de extensão universitária — Meninas na Web.
+PIBIEX — Meninas na Web.
